@@ -7,8 +7,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryanrafosala&label=Profile%20views&color=0e75b6&style=flat" alt="bryanrafosala" /> </p>
 
 - 🤝 I'm currently collaborating on developing a meal planner app. [Prep Master](https://github.com/josh-raftery/prep-master)
+  
 - 📫 How to reach me **bryanrafosala@gmail.com**
+  
 - 📚 Where you can find me https://www.linkedin.com/in/bryanrafosala/
+  
 - ⛰️ Outside of coding **I'm very passionate on exercise, gym, climbing & hiking!**
 
 <h3 align="left">Connect with me:</h3>
