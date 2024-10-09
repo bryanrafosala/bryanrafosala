@@ -6,13 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryanrafosala&label=Profile%20views&color=0e75b6&style=flat" alt="bryanrafosala" /> </p>
 
-- 🤝 I'm currently collaborating on developing a meal planner app. [Prep Master](https://github.com/josh-raftery/prep-master)
-  
+- 👤 My Portfolio Website - https://bryraf.netlify.app/
+
 - 📫 How to reach me **bryanrafosala@gmail.com**
   
 - 📚 Where you can find me https://www.linkedin.com/in/bryanrafosala/
-
-- 👤 My Portfolio Website - https://bryraf.netlify.app/
   
 - ⛰️ Outside of coding **I'm very passionate on exercise, gym, climbing & hiking!**
 
